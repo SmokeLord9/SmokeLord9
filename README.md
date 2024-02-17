@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Express, Prisma**
 
-- 💬 Ask me about **Fra**
+- 💬 Ask me about **Front_end**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
